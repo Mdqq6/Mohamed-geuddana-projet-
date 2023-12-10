@@ -1,0 +1,13 @@
+html { 
+  background: url(https://i.ibb.co/6ygPDnv/ea3ab42b8c81f5367b92c7da853ef428.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+    mark.pink{
+ background-color:#FF00BA59
+    }
+mark.bleu{
+  background-color: #0795FF8F
+}
